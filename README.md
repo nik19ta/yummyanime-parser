@@ -33,6 +33,11 @@ git clone https://github.com/nik19ta/yummyanime-parser.git
 ```sh
 cd yummyanime-parser
 ```
+```sh
+npm i 
+or
+yarn i
+```
 Для того что бы спарсить топ 100 нужно запустить 
 ```sh
 node index
